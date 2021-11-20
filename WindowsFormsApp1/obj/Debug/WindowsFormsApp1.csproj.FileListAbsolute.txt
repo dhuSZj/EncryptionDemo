@@ -1,0 +1,10 @@
+F:\CodeLib\EncryptionDemo\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\CodeLib\EncryptionDemo\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\CodeLib\EncryptionDemo\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\CodeLib\EncryptionDemo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+F:\CodeLib\EncryptionDemo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\CodeLib\EncryptionDemo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\CodeLib\EncryptionDemo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\CodeLib\EncryptionDemo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\CodeLib\EncryptionDemo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\CodeLib\EncryptionDemo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
